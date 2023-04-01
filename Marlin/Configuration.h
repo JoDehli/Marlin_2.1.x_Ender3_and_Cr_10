@@ -21,7 +21,7 @@
  */
 // Anleitung Marlin Compile https://www.youtube.com/watch?v=eq_ygvHF29I
 #pragma once
-
+#define DIAG_JUMPERS_REMOVED
 #define CONFIG_EXAMPLES_DIR "Creality/Ender-3/BigTreeTech SKR Mini E3 2.0"
 
 /**
